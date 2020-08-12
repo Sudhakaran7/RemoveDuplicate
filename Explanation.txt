@@ -1,0 +1,47 @@
+Given a string which contains only lowercase letters, remove duplicate letters so that every letter appears once and only once. 
+You must make sure your result is the smallest in lexicographical order among all possible results.
+
+Input Description:
+S a string as input.
+
+Output Description:
+Print after removing duplicates letters.
+
+Sample Input:
+cbacdcbc
+
+Sample Output:
+acdb
+
+Explanation:
+From the given string, duplicates have been removed and it is the smallest in lexicographical order among all possible results
+
+Sample Input:
+qwfwqyytroo
+
+Sample Output:
+fwqytro
+
+Sample Input:
+guffvddeeui
+
+Sample Output:
+gfvdeui
+
+Sample Input:
+poosesbgg
+
+Sample Output:
+poesbg
+
+Sample Input:
+thheooiup
+
+Sample Output:
+theoiup
+
+Sample Input:
+ploiploi
+
+Sample Output:
+iplo
